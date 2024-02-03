@@ -1,5 +1,5 @@
 # I'm ARKFUTURE
-* [PICTURE](https://arkfuture.cn/ARKFUTURE/sg.png)  
+* ![](https://arkfuture.cn/ARKFUTURE/sa.png)
 * 欢迎你来到ARKFUTURE 
 * 这是一个非政府非营利非商业的技术组织 
 * 一切技术基于爱好 
