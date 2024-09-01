@@ -24,8 +24,9 @@
 * 我们出生在不平等的世界，但我们不会放弃自己，我们依靠自己的努力和不断的汲取知识来推动平等进步
 
 # Thanks 
-```
-BY
-ARKFUTURE|ARKFUTURE GROUP|ARKFUTURE STUDIO|ARK SRCURITY LAB
-```
-
+<footer>
+    <center>
+        <p class="footer">方舟未来|方舟未来工作室(集团)|方舟安全实验室</p>
+        <p class="footer">Copyright © 2020-∞ <a href="">ARKFUTURE</a>|<a href="">ARKFUTURE STUDIO(GROUP)</a>|<a href="">ARK SRCURITY LAB</a>. All rights reserved. <br>All trademarks are the property of their respective owners.</p>
+    </center>
+</footer>
