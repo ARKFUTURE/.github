@@ -1,6 +1,6 @@
 # Read
-ARKFUTURE.GITHUB.IO
+* ARKFUTURE.GITHUB.IO
 
 # Project
-ARKFUTURE/ARKFUTURE.github.io
-ARKFUTURE/inspircd-package-builder
+* ARKFUTURE/ARKFUTURE.github.io 
+* ARKFUTURE/inspircd-package-builder
